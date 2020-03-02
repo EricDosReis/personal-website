@@ -4,7 +4,7 @@ const links = [
     url: "https://github.com/EricDosReis/",
   },
   {
-    label: "LinkedIn",
+    label: "Linkedin",
     url: "https://linkedin.com/in/ericdosreis/",
   },
   {
