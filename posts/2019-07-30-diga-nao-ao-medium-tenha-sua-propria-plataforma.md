@@ -1,5 +1,5 @@
 ---
-date: 2019-07-30
+date: 2019-07-30 05:54:23
 title: "Diga não ao Medium: tenha sua própria plataforma"
 description: Algumas razões para você ter sua própria plataforma ao invés de soluções como o Medium
 category: Misc
